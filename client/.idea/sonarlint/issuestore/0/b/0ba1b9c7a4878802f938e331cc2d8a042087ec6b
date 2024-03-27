@@ -1,0 +1,23 @@
+
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Arial" 4 times.( ²Øş8ÄÇ®€è1J$c3b0b542-2624-428e-90d9-fd38cf6ccb0d
+p
+java:S16045"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ8ÅÇ®€è1J$63eaefa2-9e8a-47ee-a060-f25c28aaf22a
+p
+java:S1604E"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ8ÅÇ®€è1J$2e42fed5-af88-41e4-8cbb-223ace110482
+•
+java:S2095L"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ï‡ºÕúÿÿÿÿ8ÒÇ®€è1J$9d195a32-87e0-449c-9a14-6fe59c3174f0
+‡
+java:S2095M"DUse try-with-resources or close this "Socket" in a "finally" clause.(™öá 8ÒÇ®€è1J$b436809b-47dc-4259-819d-f3b973b7a001
+f
+java:S3457"%String contains no format specifiers.(Šª„ıÿÿÿÿJ$e48730fb-a425-4b1c-a32b-507abe5491ae
+k	java:S106"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿJ$6f8fb1e8-15c9-47ee-995e-49fa8a2755c9
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(äİ¥Áşÿÿÿÿ8ÕÇ®€è1J$ac62feed-5d03-4b01-932e-73f1535ad76b
+m
+java:S3457"%String contains no format specifiers.(äİ¥Áşÿÿÿÿ8ÖÇ®€è1J$992a2749-5fec-4449-be7c-460698d67aba
+r	java:S106"+Replace this use of System.out by a logger.(äİ¥Áşÿÿÿÿ8ÖÇ®€è1J$32859729-6713-4355-ae65-341e71505c9b
+Œ
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÒÛ´ç8×Ç®€è1J$22ba8777-de01-4533-9316-5187ee806310
+
+java:S2674S"JCheck the return value of the "read" call to see how many bytes were read.(Ï‰É†8İÇ®€è1J$cf167ffa-2f2c-48c2-8d1f-d6839352d836

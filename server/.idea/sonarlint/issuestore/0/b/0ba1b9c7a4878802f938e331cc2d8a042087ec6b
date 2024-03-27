@@ -1,0 +1,25 @@
+
+
+java:S1192'"FDefine a constant instead of duplicating this literal "Arial" 6 times.(ÍÃùùÿÿÿÿ8Û°…è1J$d8ca9312-ba26-431b-a4d5-72218ef54863
+q
+java:S1604£"(Make this anonymous inner class a lambda(äàë‹üÿÿÿÿ8Û°…è1J$bf75a8a3-f0ee-4735-ac02-acc79045e853
+l
+java:S1604´"(Make this anonymous inner class a lambda(’¯«˜8Û°…è1J$6b5d7f69-b6c9-421d-a262-701900e685f1
+—
+java:S2095©"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ĞòÕÌûÿÿÿÿ8çÛ°…è1J$a5162e5b-3602-491f-8a37-c2a0046c2534
+j
+java:S21891""Add an end condition to this loop.(™“òƒøÿÿÿÿ8çÛ°…è1J$96656301-a263-4341-b940-431cd9f1a1c1
+Y
+java:S25891"7Remove this expression which always evaluates to "true"(™“òƒøÿÿÿÿ8¥’Ñ…è1
+Œ
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÒÛ´ç8ìÛ°…è1J$c59ba0b5-6643-4a00-a2e2-3a2b59a6346a
+œ
+java:S3252$"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(§ŸÊ8íÛ°…è1J$a683a11d-338a-483b-8dd0-4a2108a30b70
+É
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ8ôÛ°…è1J$de6adaf3-0421-4dd9-b73c-49ae7598cec2
+Ä
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8ôÛ°…è1J$5c20ac51-3a2d-44fe-8fba-677194786a8a
+É
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8ôÛ°…è1J$2f865fca-ff3a-4a47-a8db-840c2086dfa8
+É
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8ôÛ°…è1J$1d5e9d3d-ba38-4c60-a879-1182f5964e43
